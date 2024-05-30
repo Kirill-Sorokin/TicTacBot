@@ -53,7 +53,3 @@ To install and run TicTacBot, follow these steps:
 - The game will indicate the winner or if it's a draw.
 - Click the "Restart" button to reset the game and play again.
 - Track the scores of player and bot wins at the top of the window.
-
-**License**
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
